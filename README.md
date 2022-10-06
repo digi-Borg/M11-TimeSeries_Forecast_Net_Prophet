@@ -1,5 +1,5 @@
 
-# FinTech Growth Analyst Using Google CoLAb and Facebook Prophet to Forecast 
+# FinTech Growth Analyst Using Google CoLAb and FB Prophet to Forecast 
 ![M11NetProphetTitle](./Images/M11ReadMeTitle-2022-10-06011349.png)
 
 *"Welcome to my FinTech project as a 'Growth Analyst' forecasting net prophet at an e-commerce company."*
