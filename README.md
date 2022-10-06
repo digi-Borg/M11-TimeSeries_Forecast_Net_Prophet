@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Mod11-Forecast_Net_Prophet
+Please reference README.md in Mod11-Forecast_Net_Prophet folder 
+>>>>>>> 78d9e0fa37d8dc7622e960cf400d1ac36ae2089e
 
 # FinTech Growth Analyst Using Google CoLAb and Facebook Prophet to Forecast
 
@@ -5,6 +10,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## Background
 
 This project constructs a program to seek predictive growth avenues for e-commerce company MercadoLibre 's stock by analyzing user search data.  To make predictable forecast models, search traffic data is mined for unusual patterns and seasonality factors to find some correlation with historical stock price movement overtime. Employing python and pandas functions of ‘datetime’ objects eases forecasts using time series models through FaceBook Prophet for non-linear trends, which are observed with seasonal effects and historical data.  
@@ -107,3 +113,5 @@ Columbia U. Engineering
 
 
 >>>>>>> b9d57d6932c7a2955ea36e7cb11f70e9be46f990
+=======
+>>>>>>> 78d9e0fa37d8dc7622e960cf400d1ac36ae2089e
